@@ -1,0 +1,15 @@
+client.cpp
+film.cpp
+film.h
+group.cpp
+group.h
+mixmap.cpp
+mixmap.h
+server.cpp
+video.cpp
+video.h
+photo.cpp
+photo.h
+multimedia.cpp
+multimedia.h
+main.cpp

@@ -1,0 +1,14 @@
+Film
+Try.mp4
+~/Downloads/inf224/
+30
+1
+Photo
+sky.jpg
+~/Downloads/inf224/
+1200
+1200
+Video
+defaultVideo
+defaultFicher
+10
